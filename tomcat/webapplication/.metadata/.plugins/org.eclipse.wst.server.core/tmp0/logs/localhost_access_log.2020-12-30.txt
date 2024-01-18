@@ -1,0 +1,14 @@
+127.0.0.1 - - [30/Dec/2020:22:00:15 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:00:26 +0530] "GET /Employee_Management_System/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:00:27 +0530] "GET /Employee_Management_System/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:00:28 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:02:00 +0530] "POST /Employee_Management_System/LoginCheck.jsp HTTP/1.1" 200 2515
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:02:00 +0530] "GET /Employee_Management_System/style1.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:02:14 +0530] "GET /Employee_Management_System/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:02:15 +0530] "GET /Employee_Management_System/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:02:16 +0530] "GET /Employee_Management_System/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:02:17 +0530] "GET /Employee_Management_System/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:02:17 +0530] "GET /Employee_Management_System/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:08:03 +0530] "GET /Employee_Management_System/register.jsp HTTP/1.1" 200 2013
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:09:27 +0530] "POST /Employee_Management_System/regk HTTP/1.1" 200 728
+0:0:0:0:0:0:0:1 - - [30/Dec/2020:22:11:39 +0530] "POST /Employee_Management_System/LoginCheck.jsp HTTP/1.1" 200 2799

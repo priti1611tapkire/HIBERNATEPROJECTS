@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PENDING_WEBPROJECT1&apos; to &apos;UseBean&amp; Taglib&apos;" description="Rename resource &apos;PENDING_WEBPROJECT1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PENDING_WEBPROJECT1" name="UseBean&amp; Taglib" stamp="1609492033671" updateReferences="true"/>
+</session>

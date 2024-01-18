@@ -1,0 +1,7 @@
+127.0.0.1 - - [08/Apr/2021:17:16:56 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:17:17:07 +0530] "GET /HibernateMVCPattern/ HTTP/1.1" 200 518
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:17:17:11 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:17:17:39 +0530] "GET /HibernateMVCPattern/log?cuname=admin&cpass=admin HTTP/1.1" 200 2329
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:17:17:57 +0530] "GET /HibernateMVCPattern/register.jsp HTTP/1.1" 200 633
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:17:18:15 +0530] "POST /HibernateMVCPattern/reg HTTP/1.1" 200 518
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:17:18:20 +0530] "GET /HibernateMVCPattern/log?cuname=admin&cpass=admin HTTP/1.1" 200 2731

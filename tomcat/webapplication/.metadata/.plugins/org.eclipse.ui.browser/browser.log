@@ -1,0 +1,53 @@
+
+Dec 22, 2020 23:04:44.28 NEW SESSION
+Dec 22, 2020 23:04:44.28 [75004:25408:1222/230444.204:ERROR:device_event_log_impl.cc(211)] [23:04:44.218] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 22, 2020 23:04:44.87 [75004:25408:1222/230444.220:ERROR:device_event_log_impl.cc(211)] [23:04:44.220] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 22, 2020 23:14:17.03 [1222/231417.037:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 23, 2020 22:31:41.62 NEW SESSION
+Dec 23, 2020 22:31:41.62 [72856:58528:1223/223141.570:ERROR:device_event_log_impl.cc(211)] [22:31:41.569] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 23, 2020 22:31:41.76 [72856:58528:1223/223141.572:ERROR:device_event_log_impl.cc(211)] [22:31:41.571] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 23, 2020 22:41:22.28 [1223/224122.283:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 23, 2020 23:09:31.56 [54076:71344:1223/230931.568:ERROR:device_event_log_impl.cc(211)] [23:09:31.567] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 23, 2020 23:09:31.67 [54076:71344:1223/230931.569:ERROR:device_event_log_impl.cc(211)] [23:09:31.568] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 25, 2020 10:56:12.68 NEW SESSION
+Dec 25, 2020 10:56:12.68 [81072:80736:1225/105612.630:ERROR:device_event_log_impl.cc(211)] [10:56:12.629] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 10:56:12.73 [81072:80736:1225/105612.631:ERROR:device_event_log_impl.cc(211)] [10:56:12.630] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 11:05:52.90 [1225/110552.904:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 25, 2020 15:29:34.32 [81072:80736:1225/152931.830:ERROR:device_event_log_impl.cc(211)] [15:29:31.450] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+
+Dec 30, 2020 22:00:32.25 NEW SESSION
+Dec 30, 2020 22:00:32.25 [10576:9168:1230/220032.230:ERROR:device_event_log_impl.cc(211)] [22:00:32.231] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 30, 2020 22:00:32.28 [10576:9168:1230/220032.231:ERROR:device_event_log_impl.cc(211)] [22:00:32.231] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 30, 2020 22:10:18.31 [1230/221018.310:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Jan 01, 2021 14:16:02.54 NEW SESSION
+Jan 01, 2021 14:16:02.54 [8332:11040:0101/141602.469:ERROR:device_event_log_impl.cc(211)] [14:16:02.470] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 01, 2021 14:25:54.17 [0101/142554.172:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Jan 04, 2021 09:39:07.38 NEW SESSION
+Jan 04, 2021 09:39:07.38 [1968:12220:0104/093907.387:ERROR:device_event_log_impl.cc(211)] [09:39:07.387] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 09:39:07.43 [1968:12220:0104/093907.388:ERROR:device_event_log_impl.cc(211)] [09:39:07.388] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 10:01:38.51 [15964:10960:0104/100138.509:ERROR:device_event_log_impl.cc(211)] [10:01:38.510] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 10:01:38.53 [15964:10960:0104/100138.511:ERROR:device_event_log_impl.cc(211)] [10:01:38.511] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 10:01:38.56 [15964:10960:0104/100138.511:ERROR:device_event_log_impl.cc(211)] [10:01:38.511] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 04, 2021 15:27:44.33 NEW SESSION
+Jan 04, 2021 15:27:44.33 [10952:18676:0104/152744.333:ERROR:device_event_log_impl.cc(211)] [15:27:44.333] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 15:27:44.34 [10952:18676:0104/152744.334:ERROR:device_event_log_impl.cc(211)] [15:27:44.333] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 15:37:32.20 [0104/153732.207:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Jan 19, 2021 11:12:08.64 NEW SESSION
+Jan 19, 2021 11:12:08.64 [13464:12412:0119/111208.641:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 3.509 s for first_image_paint 3.421 s
+Jan 19, 2021 11:12:11.94 [13464:12412:0119/111211.944:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 3.509 s for first_image_paint 3.421 s
+Jan 19, 2021 11:12:16.99 [13464:12412:0119/111216.991:ERROR:device_event_log_impl.cc(211)] [11:12:16.990] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 19, 2021 11:12:16.99 [13464:12412:0119/111216.993:ERROR:device_event_log_impl.cc(211)] [11:12:16.993] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 19, 2021 11:12:41.45 [13464:12412:0119/111241.458:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 3.509 s for first_image_paint 3.421 s
+Jan 19, 2021 11:12:43.58 [13464:12412:0119/111243.580:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 3.509 s for first_image_paint 3.421 s
+Jan 19, 2021 11:12:45.67 [13464:12412:0119/111245.670:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 3.509 s for first_image_paint 3.421 s
+Jan 19, 2021 11:22:04.07 [0119/112204.079:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 19, 2021 11:41:56.97 [13464:12412:0119/114156.972:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.758 s for first_image_paint 0.692 s
+Jan 19, 2021 11:42:28.26 [13464:12412:0119/114228.265:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.386 s for first_image_paint 0.354 s
+Jan 19, 2021 11:42:30.42 [13464:12412:0119/114230.427:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.386 s for first_image_paint 0.354 s
+Jan 19, 2021 11:43:27.22 [13464:12412:0119/114327.227:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.46 s for first_image_paint 0.418 s

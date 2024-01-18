@@ -1,0 +1,22 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="org.hibernate.annotations.CacheConcurrencyStrategy"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="javax.persistence.ParameterMode"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="com.inhertance_1.Cjc"><rhs name\="com.inhertance_1.Akurdi"/></lhs><lhs name\="com.inhertance_1.Akurdi"><rhs name\="com.inhertance_1.Akurdi"/></lhs><lhs name\="com.onetomanyunidirection.Custmor"><rhs name\="com.onetomanyunidirection.Custmor"/></lhs><lhs name\="com.onetomanyunidirection.Product"><rhs name\="com.onetomanyunidirection.Product"/></lhs><lhs name\="com.practical.Client"><rhs name\="com.practical.Client"/></lhs><lhs name\="com.task.Student"><rhs name\="com.task.Student"/></lhs><lhs name\="com.ONE_2_MANY_bidirection.Customer"><rhs name\="com.ONE_2_MANY_bidirection.Customer"/></lhs><lhs name\="com.ONE_2_MANY_bidirection.Product"><rhs name\="com.ONE_2_MANY_bidirection.Product"/></lhs><lhs name\="com.DEFAULT_INHERITANCE.HDFC"><rhs name\="com.DEFAULT_INHERITANCE.HDFC"/></lhs><lhs name\="org.hibernate.boot.MetadataSources"><rhs name\="org.hibernate.boot.MetadataSources"/></lhs><lhs name\="com.practice.PersonalDetails"><rhs name\="com.practice.PersonalDetails"/></lhs><lhs name\="com.practice2_13_12_2020.CustomerOrder"><rhs name\="com.practice2_13_12_2020.CustomerOrder"/></lhs><lhs name\="com.practise14_12_20.Staff_table"><rhs name\="com.practise14_12_20.Staff_table"/></lhs><lhs name\="com.practise14_12_20.Payment_table"><rhs name\="com.practise14_12_20.Payment_table"/></lhs><lhs name\="com.Passport"><rhs name\="com.Passport"/></lhs><lhs name\="com.Person"><rhs name\="com.Person"/></lhs><lhs name\="com.pr1.Passport"><rhs name\="com.pr1.Passport"/></lhs><lhs name\="com.pr1.Person"><rhs name\="com.pr1.Person"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="com.Customers"><rhs name\="com.Customers"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="com.maytomany.Course"><rhs name\="com.maytomany.Course"/></lhs><lhs name\="com.maytomany.Student"><rhs name\="com.maytomany.Student"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.hqlqueries.Student"><rhs name\="com.hqlqueries.Student"/></lhs><lhs name\="com.Address"><rhs name\="com.Address"/></lhs><lhs name\="com.Employee"><rhs name\="com.Employee"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
